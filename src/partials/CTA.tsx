@@ -1,20 +1,17 @@
-import {
-  GradientText,
-  Newsletter,
-  Section,
-} from 'astro-boilerplate-components';
+import { GradientText, Section } from 'astro-boilerplate-components';
 
 const CTA = () => (
   <Section>
-    <Newsletter
-      title={
-        <>
-          Subscribe to my <GradientText>Newsletters</GradientText>
-        </>
-      }
-      description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero
-          esse non molestias eos excepturi, inventore atque cupiditate."
-    />
+    Contact me
+    <GradientText>
+      <a
+        className="hover:underline"
+        href="mailto:marcusberkeley@posteo.net?subject=Subject%20of%20the%20email&body=Hello%20there,"
+      >
+        {' '}
+        marcusberkeley@posteo.net
+      </a>
+    </GradientText>
   </Section>
 );
 

@@ -10,30 +10,33 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hi there, I'm <GradientText>Marcus Berkeley</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          <a className="text-cyan-600" href="/">
+            Your One-Stop Solution in Toledo, Ohio: Notary and Marriage Minister
+            Services
+          </a>
+          <br />
+          Need notary services and a personalized wedding ceremony in Toledo?
+          I've got you covered! As a dedicated Notary Public, I ensure swift and
+          legally sound document handling. Plus, as a seasoned Marriage
+          Minister, I create memorable ceremonies tailored to your unique love
+          story. Enjoy the convenience of accessing both services in one place,
+          with a commitment to professionalism and legal compliance. Let's make
+          your important moments seamless and special!
         </>
       }
-      avatar={
-        <img
-          className="h-80 w-64"
-          src="/assets/images/avatar.svg"
-          alt="Avatar image"
-          loading="lazy"
-        />
-      }
+      // avatar={
+      //   <img
+      //     className="h-80 w-64"
+      //     src="/assets/images/"
+      //     alt="Avatar image"
+      //     loading="lazy"
+      //   />
+      // }
       socialButtons={
         <>
           <a href="/">

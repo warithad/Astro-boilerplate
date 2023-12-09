@@ -1,10 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 1st Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-01T00:00:00Z
-imgSrc: '/assets/images/image-post7.jpeg'
-imgAlt: 'Image post 7'
+title: Notary Services
+description: I'm a Notary Public in Toledo, Ohio, ensuring swift, accurate and reliable notarization services.
+pubDate: 2020-02-04T00:00:00Z
+imgSrc: '/assets/images/notary.jpg'
+imgAlt: 'Notary'
 ---
 
-Full typography example at [this page](../sixth-post/).
