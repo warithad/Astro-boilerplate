@@ -22,11 +22,11 @@ const Hero = () => (
           <br />
           Need notary services and a personalized wedding ceremony in Toledo?
           I've got you covered! As a dedicated Notary Public, I ensure swift and
-          legally sound document handling. Plus, as a seasoned Marriage
-          Minister, I create memorable ceremonies tailored to your unique love
-          story. Enjoy the convenience of accessing both services in one place,
-          with a commitment to professionalism and legal compliance. Let's make
-          your important moments seamless and special!
+          legally sound document handling. Plus, as a ordained Marriage
+          Minister, I help create memorable ceremonies tailored to your unique
+          love story. Enjoy the convenience of accessing both services in one
+          place, with a commitment to professionalism and legal compliance.
+          Let's make your important moments seamless and special!
         </>
       }
       // avatar={
